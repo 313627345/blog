@@ -31,3 +31,5 @@ class RegisterView(View):
         """
         return render(request, 'register.html')
     
+
+#这里
