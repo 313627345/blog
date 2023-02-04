@@ -1,0 +1,328 @@
+INFO 2023-02-03 16:09:37,218 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:12:48,028 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:17:38,748 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\settings.py changed, reloading.
+INFO 2023-02-03 16:17:39,386 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:19:30,109 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\settings.py changed, reloading.
+INFO 2023-02-03 16:19:30,786 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:19:46,613 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\settings.py changed, reloading.
+INFO 2023-02-03 16:19:47,241 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:22:48,485 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\settings.py changed, reloading.
+INFO 2023-02-03 16:22:49,099 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:24:21,190 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\settings.py changed, reloading.
+INFO 2023-02-03 16:24:21,810 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:24:44,356 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\settings.py changed, reloading.
+INFO 2023-02-03 16:24:44,958 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:24:48,384 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:27:21,605 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\settings.py changed, reloading.
+INFO 2023-02-03 16:27:22,227 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:29:34,463 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:30:09,808 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:35:05,967 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\urls.py changed, reloading.
+INFO 2023-02-03 16:35:06,594 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 16:35:12,313 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-02-03 16:35:15,228 log 228 Not Found: /
+WARNING 2023-02-03 16:35:15,228 basehttp 154 "GET / HTTP/1.1" 404 2097
+WARNING 2023-02-03 16:36:19,318 log 228 Not Found: /
+WARNING 2023-02-03 16:36:19,319 basehttp 154 "GET / HTTP/1.1" 404 2097
+INFO 2023-02-03 16:36:39,967 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-03 16:36:39,982 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-02-03 16:36:39,983 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-02-03 16:36:39,983 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-02-03 16:36:39,983 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2023-02-03 16:36:39,984 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-02-03 16:36:39,985 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2023-02-03 16:36:40,052 log 228 Not Found: /imagecode/
+WARNING 2023-02-03 16:36:40,053 basehttp 154 "GET /imagecode/?uuid=a90e54ec-5928-4955-b444-93f01651a591 HTTP/1.1" 404 2187
+INFO 2023-02-03 16:39:35,781 autoreload 203 D:\pythonProject\pythonProject\fristblog\users\models.py changed, reloading.
+INFO 2023-02-03 16:39:36,531 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 17:23:18,083 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 17:25:46,802 autoreload 203 D:\pythonProject\pythonProject\fristblog\fristblog\settings.py changed, reloading.
+INFO 2023-02-03 17:25:47,423 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 17:25:51,249 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 21:41:25,870 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-02-03 21:41:28,327 log 228 Not Found: /
+WARNING 2023-02-03 21:41:28,328 basehttp 154 "GET / HTTP/1.1" 404 2097
+WARNING 2023-02-03 21:41:28,608 log 228 Not Found: /favicon.ico
+WARNING 2023-02-03 21:41:28,608 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2148
+INFO 2023-02-03 21:41:37,706 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-03 21:41:37,720 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2023-02-03 21:41:37,721 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2023-02-03 21:41:37,721 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2023-02-03 21:41:37,721 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2023-02-03 21:41:37,722 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2023-02-03 21:41:37,722 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2023-02-03 21:41:37,767 log 228 Not Found: /imagecode/
+WARNING 2023-02-03 21:41:37,767 basehttp 154 "GET /imagecode/?uuid=1fab1b70-4599-4d62-b4c0-63447e0e6b09 HTTP/1.1" 404 2187
+INFO 2023-02-03 21:43:21,441 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 21:46:35,690 autoreload 203 D:\pythonProject\pythonProject\fristblog\users\views.py changed, reloading.
+INFO 2023-02-03 21:46:35,694 autoreload 203 D:\pythonProject\pythonProject\fristblog\users\views.py changed, reloading.
+INFO 2023-02-03 21:46:36,445 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 21:47:29,062 autoreload 203 D:\pythonProject\pythonProject\fristblog\users\views.py changed, reloading.
+INFO 2023-02-03 21:47:29,726 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 21:48:19,878 autoreload 203 D:\pythonProject\pythonProject\fristblog\users\urls.py changed, reloading.
+INFO 2023-02-03 21:48:20,064 autoreload 203 D:\pythonProject\pythonProject\fristblog\users\urls.py changed, reloading.
+INFO 2023-02-03 21:48:20,518 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 21:48:20,713 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 21:48:37,120 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-03 21:50:17,666 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-03 21:50:17,755 basehttp 154 "GET /imagecode/?uuid=bcf6bb19-e19a-460a-99a4-7372f7987574 HTTP/1.1" 200 3155
+INFO 2023-02-03 21:50:19,318 basehttp 154 "GET /imagecode/?uuid=1796db82-4a7f-4d2b-804a-e1390ef0b842 HTTP/1.1" 200 3038
+INFO 2023-02-03 21:50:19,923 basehttp 154 "GET /imagecode/?uuid=a03a17b4-dd57-48dc-90ab-998f06336688 HTTP/1.1" 200 3024
+INFO 2023-02-03 21:50:20,134 basehttp 154 "GET /imagecode/?uuid=a5f3067d-f87b-4e44-a89e-0f5683b347a0 HTTP/1.1" 200 3204
+INFO 2023-02-03 21:50:20,345 basehttp 154 "GET /imagecode/?uuid=e8f2a5c3-aa4c-40be-b522-e51f534e1b9b HTTP/1.1" 200 2869
+INFO 2023-02-03 21:50:20,527 basehttp 154 "GET /imagecode/?uuid=c849a3a5-b8aa-4edd-866a-374b546b2eb0 HTTP/1.1" 200 2899
+INFO 2023-02-03 21:50:20,708 basehttp 154 "GET /imagecode/?uuid=701f1076-bcc2-4a29-9f15-9009d21128e6 HTTP/1.1" 200 3255
+INFO 2023-02-03 21:50:20,881 basehttp 154 "GET /imagecode/?uuid=588628aa-0b12-481d-9f81-dafa64baeb61 HTTP/1.1" 200 3233
+INFO 2023-02-03 21:50:21,054 basehttp 154 "GET /imagecode/?uuid=12b5982a-a147-4f85-bb6f-7d917271202f HTTP/1.1" 200 3418
+INFO 2023-02-03 21:50:21,226 basehttp 154 "GET /imagecode/?uuid=95e327c3-2e32-4f06-9c4f-847f75eee679 HTTP/1.1" 200 2874
+INFO 2023-02-03 21:50:21,590 basehttp 154 "GET /imagecode/?uuid=031227c5-e9c0-42ca-8520-f376f5f5990a HTTP/1.1" 200 3548
+INFO 2023-02-03 21:50:21,772 basehttp 154 "GET /imagecode/?uuid=47b7c8c3-69fd-49f1-bd12-4db495ef5b08 HTTP/1.1" 200 3091
+INFO 2023-02-03 21:50:21,955 basehttp 154 "GET /imagecode/?uuid=407a17fe-fbb0-45c1-ba9f-bee5df4c2fd4 HTTP/1.1" 200 3110
+INFO 2023-02-04 18:23:00,203 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 18:23:01,500 basehttp 154 "GET /register/ HTTP/1.1" 200 2022
+INFO 2023-02-04 18:23:01,516 basehttp 154 "GET /static/js/test.js HTTP/1.1" 200 464
+WARNING 2023-02-04 18:23:01,728 log 228 Not Found: /favicon.ico
+WARNING 2023-02-04 18:23:01,729 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2323
+INFO 2023-02-04 18:33:14,653 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 18:33:25,803 basehttp 154 "GET /register/ HTTP/1.1" 200 1870
+INFO 2023-02-04 18:33:25,810 basehttp 154 "GET /static/js/test.js HTTP/1.1" 304 0
+INFO 2023-02-04 18:33:50,753 basehttp 154 "GET /register/ HTTP/1.1" 200 1168
+INFO 2023-02-04 18:33:53,966 basehttp 154 "GET /register/ HTTP/1.1" 200 1168
+WARNING 2023-02-04 18:37:47,264 log 228 Not Found: /
+WARNING 2023-02-04 18:37:47,264 basehttp 154 "GET / HTTP/1.1" 404 2272
+WARNING 2023-02-04 18:38:23,252 log 228 Not Found: //imagecode/
+WARNING 2023-02-04 18:38:23,253 basehttp 154 "GET //imagecode/?uuid=49927cff-8a47-a7c5-fd2a-b703dedb4846 HTTP/1.1" 404 2365
+INFO 2023-02-04 18:38:33,807 basehttp 154 "GET /imagecode/?uuid=49927cff-8a47-a7c5-fd2a-b703dedb4846 HTTP/1.1" 200 3233
+INFO 2023-02-04 18:38:51,697 basehttp 154 "GET /imagecode/?uuid=01754752-e907-1ef4-c673-5631f3d129e2 HTTP/1.1" 200 3272
+INFO 2023-02-04 18:41:55,101 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 18:45:48,727 autoreload 203 D:\pythonProject\pythonProject\fristblog\users\views.py changed, reloading.
+INFO 2023-02-04 18:45:49,332 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 18:45:56,454 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-02-04 18:45:59,232 log 228 Not Found: /
+WARNING 2023-02-04 18:45:59,232 basehttp 154 "GET / HTTP/1.1" 404 2272
+WARNING 2023-02-04 18:45:59,480 log 228 Not Found: /favicon.ico
+WARNING 2023-02-04 18:45:59,481 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2323
+INFO 2023-02-04 18:46:05,689 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:05,774 basehttp 154 "GET /imagecode/?uuid=6ef828c4-5baf-4a4c-b54e-8378ce01fae2 HTTP/1.1" 200 3635
+INFO 2023-02-04 18:46:08,307 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:08,349 basehttp 154 "GET /imagecode/?uuid=bc824d0c-c863-4c0d-bc2d-0fd604fe07c0 HTTP/1.1" 200 3254
+INFO 2023-02-04 18:46:08,792 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:08,827 basehttp 154 "GET /imagecode/?uuid=4e32b712-a432-48f0-ade0-06b2992c5916 HTTP/1.1" 200 3126
+INFO 2023-02-04 18:46:08,975 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:09,007 basehttp 154 "GET /imagecode/?uuid=8e42624c-454e-4360-b264-290811ebb2f3 HTTP/1.1" 200 3048
+INFO 2023-02-04 18:46:09,167 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:09,201 basehttp 154 "GET /imagecode/?uuid=058ebf12-11cd-4e7c-9345-76b05ab4d9d3 HTTP/1.1" 200 3864
+INFO 2023-02-04 18:46:09,348 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:09,382 basehttp 154 "GET /imagecode/?uuid=3f1803d4-7972-479a-8efd-6837a7300209 HTTP/1.1" 200 3309
+INFO 2023-02-04 18:46:09,522 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:09,554 basehttp 154 "GET /imagecode/?uuid=c82c29ed-301a-4813-9cba-143147e2a657 HTTP/1.1" 200 2733
+INFO 2023-02-04 18:46:09,704 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:09,759 basehttp 154 "GET /imagecode/?uuid=b5021c16-250b-4ef1-a6eb-11f81b7af634 HTTP/1.1" 200 3241
+INFO 2023-02-04 18:46:09,905 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:10,006 basehttp 154 "GET /imagecode/?uuid=99792b5a-3e71-4890-86aa-571d0611f672 HTTP/1.1" 200 3387
+INFO 2023-02-04 18:46:10,099 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:10,133 basehttp 154 "GET /imagecode/?uuid=2bdcf067-0b3c-456a-8e7d-531e0857c66e HTTP/1.1" 200 3122
+INFO 2023-02-04 18:46:10,297 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:10,334 basehttp 154 "GET /imagecode/?uuid=565803df-03c2-4062-88a2-dcc265c333d5 HTTP/1.1" 200 3610
+INFO 2023-02-04 18:46:10,490 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 18:46:10,529 basehttp 154 "GET /imagecode/?uuid=7ca3505a-46f9-4548-b65f-3ec3c2380c6f HTTP/1.1" 200 3216
+INFO 2023-02-04 18:46:11,316 basehttp 154 "GET /imagecode/?uuid=5eb8eab9-1be8-475e-833d-c9a822eac199 HTTP/1.1" 200 3568
+INFO 2023-02-04 18:46:11,508 basehttp 154 "GET /imagecode/?uuid=09ce0e01-6718-45a7-ba7d-8c9548ec32d1 HTTP/1.1" 200 3055
+INFO 2023-02-04 18:46:11,680 basehttp 154 "GET /imagecode/?uuid=207e9915-ff8b-4177-ad3e-1f37095c7e41 HTTP/1.1" 200 2946
+INFO 2023-02-04 18:46:11,863 basehttp 154 "GET /imagecode/?uuid=dc4eda16-4e30-47bd-a188-6264f811f091 HTTP/1.1" 200 3448
+INFO 2023-02-04 18:46:12,044 basehttp 154 "GET /imagecode/?uuid=9074616e-b864-443a-a0c1-be328172a828 HTTP/1.1" 200 3018
+INFO 2023-02-04 18:46:12,235 basehttp 154 "GET /imagecode/?uuid=97ded18a-2c26-470e-a750-4e1bc9ea02fb HTTP/1.1" 200 3086
+INFO 2023-02-04 18:46:12,428 basehttp 154 "GET /imagecode/?uuid=4d8c3043-9574-45ce-9a0d-ed39cbef9a0a HTTP/1.1" 200 3046
+INFO 2023-02-04 18:46:12,610 basehttp 154 "GET /imagecode/?uuid=a566a0d9-1163-4320-b490-2b1532f868ab HTTP/1.1" 200 3130
+INFO 2023-02-04 18:46:12,783 basehttp 154 "GET /imagecode/?uuid=1fa60dad-1096-4c8f-8eb7-8c13c18a9a53 HTTP/1.1" 200 3434
+INFO 2023-02-04 18:46:12,955 basehttp 154 "GET /imagecode/?uuid=2fec40d5-f175-452c-8e35-ddd8cda64721 HTTP/1.1" 200 3313
+INFO 2023-02-04 19:03:07,193 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:03:14,423 basehttp 154 "GET /register/ HTTP/1.1" 200 481
+INFO 2023-02-04 19:03:21,126 basehttp 154 "GET /register/ HTTP/1.1" 200 481
+INFO 2023-02-04 19:03:21,567 basehttp 154 "GET /register/ HTTP/1.1" 200 481
+INFO 2023-02-04 19:12:41,409 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:12:56,521 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:05,134 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:09,599 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:14,419 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:15,062 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:15,636 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:16,144 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:16,565 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:16,999 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:17,399 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:17,840 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:13:18,301 basehttp 154 "GET /register/ HTTP/1.1" 200 454
+INFO 2023-02-04 19:16:45,773 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:16:48,823 basehttp 154 "GET /register/ HTTP/1.1" 200 736
+INFO 2023-02-04 19:16:50,132 basehttp 154 "GET /register/ HTTP/1.1" 200 736
+INFO 2023-02-04 19:17:05,832 basehttp 154 "GET /register/ HTTP/1.1" 200 733
+INFO 2023-02-04 19:17:25,730 basehttp 154 "GET /register/ HTTP/1.1" 200 730
+INFO 2023-02-04 19:17:31,049 basehttp 154 "GET /register/ HTTP/1.1" 200 730
+INFO 2023-02-04 19:17:45,743 basehttp 154 "GET /register/ HTTP/1.1" 200 730
+INFO 2023-02-04 19:17:46,558 basehttp 154 "GET /register/ HTTP/1.1" 200 730
+INFO 2023-02-04 19:18:12,456 basehttp 154 "GET /register/ HTTP/1.1" 200 736
+INFO 2023-02-04 19:18:22,957 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:18:25,230 basehttp 154 "GET /register/ HTTP/1.1" 200 736
+INFO 2023-02-04 19:18:41,279 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:18:46,856 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:18:47,545 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:18:48,062 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:19:00,829 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:19:01,760 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:19:02,401 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:19:02,852 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:19:03,235 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:19:03,609 basehttp 154 "GET /register/ HTTP/1.1" 200 739
+INFO 2023-02-04 19:21:09,850 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:21:10,980 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:21:11,710 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:21:12,399 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:27:55,012 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:28:02,936 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:28:03,908 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:28:04,530 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:28:04,990 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:28:05,345 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:28:05,699 basehttp 154 "GET /register/ HTTP/1.1" 200 498
+INFO 2023-02-04 19:34:45,145 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:45,842 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:46,485 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:47,003 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:47,215 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:47,606 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:47,989 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:48,334 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:48,718 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:49,082 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:49,417 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:49,772 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:50,117 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:50,473 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:50,826 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:51,190 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:51,611 basehttp 154 "GET /register/ HTTP/1.1" 200 622
+INFO 2023-02-04 19:34:59,809 basehttp 154 "GET /register/ HTTP/1.1" 200 621
+INFO 2023-02-04 19:35:00,558 basehttp 154 "GET /register/ HTTP/1.1" 200 621
+INFO 2023-02-04 19:35:15,432 basehttp 154 "GET /register/ HTTP/1.1" 200 598
+INFO 2023-02-04 19:35:19,732 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:35:20,154 basehttp 154 "GET /register/ HTTP/1.1" 200 598
+INFO 2023-02-04 19:36:48,105 basehttp 154 "GET /register/ HTTP/1.1" 200 491
+INFO 2023-02-04 19:36:48,767 basehttp 154 "GET /register/ HTTP/1.1" 200 491
+INFO 2023-02-04 19:36:49,332 basehttp 154 "GET /register/ HTTP/1.1" 200 491
+INFO 2023-02-04 19:37:35,209 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:37:37,474 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:37:38,255 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:37:38,895 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:37:39,316 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:37:39,854 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:37:40,209 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:37:40,534 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:37:40,870 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:38:14,109 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:38:23,572 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:38:26,750 basehttp 154 "GET /register/ HTTP/1.1" 200 1519
+INFO 2023-02-04 19:46:55,188 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:47:13,626 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-02-04 19:47:23,118 log 228 Not Found: /
+WARNING 2023-02-04 19:47:23,119 basehttp 154 "GET / HTTP/1.1" 404 2272
+WARNING 2023-02-04 19:47:23,356 log 228 Not Found: /favicon.ico
+WARNING 2023-02-04 19:47:23,357 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2323
+INFO 2023-02-04 19:47:34,458 basehttp 154 "GET /register/ HTTP/1.1" 200 4607
+INFO 2023-02-04 19:47:34,468 basehttp 154 "GET /static/js/test.js HTTP/1.1" 200 6575
+INFO 2023-02-04 19:48:16,191 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 19:48:16,247 basehttp 154 "GET /imagecode/?uuid=990336ed-50b4-4442-8686-0119764158f2 HTTP/1.1" 200 3323
+INFO 2023-02-04 19:48:34,583 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:48:35,922 basehttp 154 "GET /register/ HTTP/1.1" 200 4813
+INFO 2023-02-04 19:48:35,976 basehttp 154 "GET /imagecode/?uuid=fe0007f7-79f2-44e4-8bd0-8daaaf093791 HTTP/1.1" 200 3342
+INFO 2023-02-04 19:48:54,467 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:48:56,782 basehttp 154 "GET /register/ HTTP/1.1" 200 4632
+INFO 2023-02-04 19:48:56,835 basehttp 154 "GET /imagecode/?uuid=d133e5e1-a6ae-4a3b-aff1-af418867b9e8 HTTP/1.1" 200 3337
+INFO 2023-02-04 19:48:58,625 basehttp 154 "GET /imagecode/?uuid=2325298f-063b-4ea5-bd52-c7123b85d72a HTTP/1.1" 200 3105
+INFO 2023-02-04 19:48:59,055 basehttp 154 "GET /imagecode/?uuid=be4426e9-1b19-4a9f-9167-adc06e8734d4 HTTP/1.1" 200 3197
+INFO 2023-02-04 19:48:59,248 basehttp 154 "GET /imagecode/?uuid=7db92b02-b7c6-4439-9261-efe1ccf9a758 HTTP/1.1" 200 3252
+INFO 2023-02-04 19:48:59,431 basehttp 154 "GET /imagecode/?uuid=ee6695c0-3751-49f3-bbf6-e018753c588e HTTP/1.1" 200 3395
+INFO 2023-02-04 19:48:59,611 basehttp 154 "GET /imagecode/?uuid=abe94a8a-0429-4865-a872-306f3c26ff01 HTTP/1.1" 200 2736
+INFO 2023-02-04 19:48:59,775 basehttp 154 "GET /imagecode/?uuid=f9c59129-4d56-48be-8639-48d2fe1a50a4 HTTP/1.1" 200 2998
+INFO 2023-02-04 19:48:59,938 basehttp 154 "GET /imagecode/?uuid=f580b298-ffdb-455d-9186-e37b42d7f5c7 HTTP/1.1" 200 3093
+INFO 2023-02-04 19:49:00,112 basehttp 154 "GET /imagecode/?uuid=537f14a7-32f4-4b90-97e4-a6524b96a376 HTTP/1.1" 200 3466
+INFO 2023-02-04 19:49:00,293 basehttp 154 "GET /imagecode/?uuid=9a9d9963-1eb0-4f72-8159-670d03644db7 HTTP/1.1" 200 3263
+INFO 2023-02-04 19:49:00,456 basehttp 154 "GET /imagecode/?uuid=dc55f077-9e23-4275-b67d-48708d5da579 HTTP/1.1" 200 2622
+INFO 2023-02-04 19:49:00,647 basehttp 154 "GET /imagecode/?uuid=0b920aff-5c31-4859-9858-2af8d044bcf9 HTTP/1.1" 200 3461
+INFO 2023-02-04 19:49:00,849 basehttp 154 "GET /imagecode/?uuid=37c82d0c-356e-466c-a1b4-1594c6d4c3c4 HTTP/1.1" 200 3324
+INFO 2023-02-04 19:49:34,587 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 19:49:35,493 basehttp 154 "GET /register/ HTTP/1.1" 200 4628
+INFO 2023-02-04 19:49:35,501 basehttp 154 "GET /static/js/test.js HTTP/1.1" 304 0
+INFO 2023-02-04 19:49:35,544 basehttp 154 "GET /imagecode/?uuid=c2e39c8f-3229-4070-b896-382a6b0630c5 HTTP/1.1" 200 3053
+INFO 2023-02-04 19:49:36,205 basehttp 154 "GET /register/ HTTP/1.1" 200 4628
+INFO 2023-02-04 19:49:36,245 basehttp 154 "GET /imagecode/?uuid=a7b164c2-dda2-4bbf-8960-d549445cc09d HTTP/1.1" 200 3021
+INFO 2023-02-04 19:49:36,406 basehttp 154 "GET /register/ HTTP/1.1" 200 4628
+INFO 2023-02-04 19:49:36,440 basehttp 154 "GET /imagecode/?uuid=f3451389-e446-48b9-b80d-443cee6eb60f HTTP/1.1" 200 3542
+INFO 2023-02-04 19:49:36,981 basehttp 154 "GET /register/ HTTP/1.1" 200 4628
+INFO 2023-02-04 19:49:37,012 basehttp 154 "GET /imagecode/?uuid=3b9e170d-a249-496b-8d5c-ac6f4212cde3 HTTP/1.1" 200 3184
+INFO 2023-02-04 19:50:08,831 basehttp 154 "GET /register/ HTTP/1.1" 200 4628
+INFO 2023-02-04 19:50:08,838 basehttp 154 "GET /static/js/test.js HTTP/1.1" 304 0
+INFO 2023-02-04 19:50:08,868 basehttp 154 "GET /imagecode/?uuid=1b98c1c9-9bf7-440d-aef3-490824e3b6e1 HTTP/1.1" 200 3198
+INFO 2023-02-04 19:50:09,311 basehttp 154 "GET /register/ HTTP/1.1" 200 4628
+INFO 2023-02-04 19:50:09,343 basehttp 154 "GET /imagecode/?uuid=d90ce83e-8ce4-4011-a126-7bf852e509eb HTTP/1.1" 200 2599
+INFO 2023-02-04 20:12:19,995 autoreload 203 D:\pythonProject\pythonProject\fristblog\users\views.py changed, reloading.
+INFO 2023-02-04 20:12:20,617 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 20:12:21,956 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-02-04 20:12:25,116 log 228 Not Found: /
+WARNING 2023-02-04 20:12:25,117 basehttp 154 "GET / HTTP/1.1" 404 2272
+WARNING 2023-02-04 20:12:25,362 log 228 Not Found: /favicon.ico
+WARNING 2023-02-04 20:12:25,363 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2323
+INFO 2023-02-04 20:12:31,182 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 20:12:31,278 basehttp 154 "GET /imagecode/?uuid=d8fc4907-cef2-412e-9e3e-b6f033e7511f HTTP/1.1" 200 3214
+INFO 2023-02-04 20:12:33,745 basehttp 154 "GET /imagecode/?uuid=d0457da6-0d1a-46ae-9e6f-4096cbf29958 HTTP/1.1" 200 2835
+INFO 2023-02-04 20:12:34,234 basehttp 154 "GET /imagecode/?uuid=a776a767-801e-4f8c-b1c6-30e09879b7d2 HTTP/1.1" 200 3111
+INFO 2023-02-04 20:12:34,455 basehttp 154 "GET /imagecode/?uuid=d0e6b4cc-e686-4287-87aa-8780a48539b5 HTTP/1.1" 200 3693
+INFO 2023-02-04 20:12:34,838 basehttp 154 "GET /imagecode/?uuid=73723b47-32a3-48e0-b417-7d6d83cb2b59 HTTP/1.1" 200 2590
+INFO 2023-02-04 20:12:35,059 basehttp 154 "GET /imagecode/?uuid=b0f746a2-08c6-48f6-a86a-0b9814a42ffe HTTP/1.1" 200 3444
+INFO 2023-02-04 20:12:35,520 basehttp 154 "GET /imagecode/?uuid=5d833780-eb2b-4bc7-af1b-6d7af4888dd9 HTTP/1.1" 200 2939
+INFO 2023-02-04 20:12:35,768 basehttp 154 "GET /imagecode/?uuid=6c0dc9e9-66ca-4569-99ba-970a6a8bbe90 HTTP/1.1" 200 3193
+INFO 2023-02-04 20:12:35,980 basehttp 154 "GET /imagecode/?uuid=414f8477-4e4c-4658-b0b2-fc2c259ba4cf HTTP/1.1" 200 3036
+INFO 2023-02-04 20:12:36,209 basehttp 154 "GET /imagecode/?uuid=7ca1f987-e4dd-4ee8-a81e-de5807c542d2 HTTP/1.1" 200 3258
+INFO 2023-02-04 20:12:36,421 basehttp 154 "GET /imagecode/?uuid=29665a45-721a-4aad-89ab-26db96aec971 HTTP/1.1" 200 2840
+INFO 2023-02-04 20:12:36,630 basehttp 154 "GET /imagecode/?uuid=297537ba-4443-49bb-9a22-fb32b5a8b8ad HTTP/1.1" 200 3051
+INFO 2023-02-04 20:12:36,851 basehttp 154 "GET /imagecode/?uuid=7cb89838-7318-45dd-929d-63b448fc44f1 HTTP/1.1" 200 2807
+INFO 2023-02-04 20:12:37,063 basehttp 154 "GET /imagecode/?uuid=6361471b-cd14-41a3-9739-e3427bdf48f1 HTTP/1.1" 200 3242
+INFO 2023-02-04 20:12:37,234 basehttp 154 "GET /imagecode/?uuid=65dd60e8-4197-41b6-bd64-8163b883c483 HTTP/1.1" 200 3328
+INFO 2023-02-04 20:12:37,483 basehttp 154 "GET /imagecode/?uuid=275e00c4-8e6c-4fa2-b747-a4e362f31e8a HTTP/1.1" 200 2634
+INFO 2023-02-04 20:12:38,212 basehttp 154 "GET /imagecode/?uuid=80c1ab40-4f1d-44f9-aa2c-644a5b1b9449 HTTP/1.1" 200 3323
+INFO 2023-02-04 20:12:41,164 basehttp 154 "GET /imagecode/?uuid=2f9ac17f-8cf3-4b09-b877-3ab1fdf432d4 HTTP/1.1" 200 2476
+INFO 2023-02-04 20:12:41,375 basehttp 154 "GET /imagecode/?uuid=67668c99-ed17-4258-a23a-b9d37b0088c6 HTTP/1.1" 200 3157
+INFO 2023-02-04 20:12:41,576 basehttp 154 "GET /imagecode/?uuid=4bb6ba5c-1ea1-4c68-9a1e-29544ac2b511 HTTP/1.1" 200 2959
+INFO 2023-02-04 20:12:43,072 basehttp 154 "GET /imagecode/?uuid=05bf30e7-c1f5-4338-b928-b7b22d6041f4 HTTP/1.1" 200 2831
+INFO 2023-02-04 20:12:43,531 basehttp 154 "GET /imagecode/?uuid=ae2fd03f-e329-4d40-be88-9016fe83522a HTTP/1.1" 200 3159
+INFO 2023-02-04 20:12:43,771 basehttp 154 "GET /imagecode/?uuid=0968e453-3efa-41c6-867e-4ce136db948d HTTP/1.1" 200 3418
+INFO 2023-02-04 20:12:43,982 basehttp 154 "GET /imagecode/?uuid=67f3bdb7-9071-4088-a841-1219137812ca HTTP/1.1" 200 3184
+INFO 2023-02-04 20:12:44,193 basehttp 154 "GET /imagecode/?uuid=22298d60-9b2b-4066-b5da-2e0431385177 HTTP/1.1" 200 3346
+INFO 2023-02-04 20:12:44,423 basehttp 154 "GET /imagecode/?uuid=4e6ee06c-8a75-43ef-ba02-145ccc3a8df2 HTTP/1.1" 200 3610
+INFO 2023-02-04 20:12:44,624 basehttp 154 "GET /imagecode/?uuid=39b62bf4-4a37-44d3-8c1b-8a82a3021b70 HTTP/1.1" 200 3285
+INFO 2023-02-04 20:12:45,918 basehttp 154 "GET /imagecode/?uuid=4a4d9a1b-5cc4-4954-ae9d-77ea4ce6bfa1 HTTP/1.1" 200 3331
+INFO 2023-02-04 20:12:46,138 basehttp 154 "GET /imagecode/?uuid=37495008-baa6-462d-a744-dacfc4bbfd33 HTTP/1.1" 200 3008
+INFO 2023-02-04 20:12:47,480 basehttp 154 "GET /imagecode/?uuid=17175eec-2bd0-4e61-8c81-3d43be4501ca HTTP/1.1" 200 3122
+INFO 2023-02-04 20:12:47,730 basehttp 154 "GET /imagecode/?uuid=9630cb52-7df9-4321-ae72-2192184f630e HTTP/1.1" 200 3193
+INFO 2023-02-04 20:12:48,900 basehttp 154 "GET /imagecode/?uuid=799f3247-82fb-46fd-9a6e-d4c3a67d6f10 HTTP/1.1" 200 3524
+INFO 2023-02-04 20:12:49,138 basehttp 154 "GET /imagecode/?uuid=a2d1d234-2fa4-4526-9ea3-adbffdf476ac HTTP/1.1" 200 3491
+INFO 2023-02-04 20:12:51,132 basehttp 154 "GET /imagecode/?uuid=7afdc3ac-d0a8-46dc-9110-870ad10456d2 HTTP/1.1" 200 3453
+INFO 2023-02-04 20:12:51,400 basehttp 154 "GET /imagecode/?uuid=f6876de7-7244-404a-b2d5-4d90c57357a4 HTTP/1.1" 200 2510
+INFO 2023-02-04 20:12:52,531 basehttp 154 "GET /imagecode/?uuid=d4098b00-d159-4b6a-ae3a-11f304d08980 HTTP/1.1" 200 3307
+INFO 2023-02-04 20:12:53,796 basehttp 154 "GET /imagecode/?uuid=4b00f230-8641-4552-a0c3-8de78ab912d8 HTTP/1.1" 200 2977
+INFO 2023-02-04 20:12:54,506 basehttp 154 "GET /imagecode/?uuid=fcf15b23-ebd7-4b2b-9922-2b250e6826d8 HTTP/1.1" 200 3085
+INFO 2023-02-04 20:12:55,771 basehttp 154 "GET /imagecode/?uuid=20e3bf9a-3059-432b-a065-573e764809b4 HTTP/1.1" 200 3204
+INFO 2023-02-04 20:12:56,510 basehttp 154 "GET /imagecode/?uuid=0ae76390-760c-48be-9987-c1eef948d84b HTTP/1.1" 200 3078
+INFO 2023-02-04 20:13:53,291 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 20:13:53,333 basehttp 154 "GET /imagecode/?uuid=1e4c7d3a-dc83-469f-a293-594bfaa4b86e HTTP/1.1" 200 3602
+INFO 2023-02-04 20:18:42,765 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 20:18:42,812 basehttp 154 "GET /imagecode/?uuid=bacc10c0-37fe-4859-bb3c-c3126de0c3f9 HTTP/1.1" 200 3310
+INFO 2023-02-04 20:18:43,359 basehttp 154 "GET /register/ HTTP/1.1" 200 5319
+INFO 2023-02-04 20:18:43,398 basehttp 154 "GET /imagecode/?uuid=4943dfea-2d0f-4b7c-b7c9-18ec2e72651d HTTP/1.1" 200 3571
+INFO 2023-02-04 20:18:52,594 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 20:19:30,676 autoreload 578 Watching for file changes with StatReloader
+WARNING 2023-02-04 20:19:32,495 log 228 Not Found: /
+WARNING 2023-02-04 20:19:32,496 basehttp 154 "GET / HTTP/1.1" 404 2272
+INFO 2023-02-04 21:28:05,119 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 22:02:10,938 autoreload 578 Watching for file changes with StatReloader
+INFO 2023-02-04 22:03:01,621 autoreload 578 Watching for file changes with StatReloader
